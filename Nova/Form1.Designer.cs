@@ -138,6 +138,7 @@
             label4.Size = new Size(38, 15);
             label4.TabIndex = 8;
             label4.Text = "SAIR";
+            label4.Click += label4_Click_1;
             // 
             // Form1
             // 
